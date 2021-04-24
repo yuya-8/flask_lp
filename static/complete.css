@@ -8,13 +8,11 @@
     text-align: center;
     color: #133c73;
     font-size: 23px;
-    padding: 50px;
 }
 .contents p {
     display: block;
     margin-block-start: 1em;
     margin-block-end: 1em;
-    padding: 50px;
 }
 .contents img {
     text-align: center;
