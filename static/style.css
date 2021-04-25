@@ -1145,7 +1145,7 @@
     font-size: 20px;
   }
 
-  .mentar-block h3 {
+  .mentar-block h2 {
     color: #1c1264;
     font-size: 28px;
   }
@@ -1518,7 +1518,7 @@
 
     .points p {
       margin-left: 0;
-      margin-bottom: 30px;
+      margin-bottom: 10px;
       font-size: 14px;
       margin-top: 0px;
       /* font-weight: bold; */
